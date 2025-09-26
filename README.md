@@ -49,6 +49,8 @@ your-project-name/
 - **`scripts/sandbox/`**: Quick testing, prototyping, and development scripts
 - **`tests/`**: Unit tests to ensure your code works correctly
 
+Of course, the structure may be adapted to the specific needs of the project.
+
 ## 📋 Prerequisites
 
 Before you start, ensure you have:
